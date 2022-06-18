@@ -1,0 +1,1 @@
+<img src="main1.jsp?name=zrotriya"/>
